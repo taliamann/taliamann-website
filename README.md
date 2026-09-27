@@ -1,7 +1,7 @@
 # Talia Mann Family Therapy
 
-Four-page static website, ready for Netlify. No build command or dependencies. Publish directory: `.` (repository root).
+Four-page static website hosted with GitHub Pages from the main branch, repository root. No build dependencies, forms, or third-party services.
 
-Pages: index.html, about.html, how-i-help.html, contact.html. Netlify routes the clean navigation URLs to these files using netlify.toml. Shared styling: site.css. Original portraits are optimized WebP copies; olive images are AI-generated decorative assets.
+Pages: index.html, about.html, how-i-help.html, contact.html. Shared styling: site.css. Portraits are optimized originals; botanical images are decorative AI-generated assets.
 
-Test the temporary Netlify URL before connecting the domain. The canonical domain is www.taliamann.com. Google Workspace email is independent: preserve all existing MX, SPF, DKIM, DMARC and verification records. Do not cancel Squarespace until website and domain migration are complete and verified.
+Google Workspace email remains independent. Preserve existing email DNS records during domain migration.
